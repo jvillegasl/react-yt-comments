@@ -1,0 +1,31 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+html {
+    overflow: hidden;
+}
+
+body {
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: none;
+    background: none;
+    list-style: none;
+    text-decoration: none;
+    color: inherit;
+}
+
+a,
+button {
+    cursor: pointer;
+}
