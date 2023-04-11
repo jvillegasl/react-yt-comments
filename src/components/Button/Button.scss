@@ -1,0 +1,56 @@
+.c-button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 36px;
+    padding: 0 16px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 36px;
+    border-radius: 9999px;
+    border: 1px solid transparent;
+
+    &--sm {
+        height: 32px;
+        padding: 0 12px;
+        font-size: 12px;
+        line-height: 32px;
+    }
+
+    &--primary {
+        color: #ffffff;
+        background-color: #065fd4;
+
+        &:hover {
+            background-color: #2a52bc;
+        }
+
+        &:active {
+            background-color: #5575c9;
+        }
+    }
+
+    &--secondary {
+        color: #000000;
+        font-weight: 500;
+
+        &:hover {
+            background-color: #e5e5e5;
+        }
+
+        &:active {
+            background-color: #cecece;
+            animation: none !important;
+        }
+
+        &:focus {
+            animation: border-fade-out 0.2s ease-out;
+        }
+    }
+
+    &:disabled {
+        cursor: auto;
+        color: #909090 !important;
+        background-color: transparent !important;
+    }
+}
