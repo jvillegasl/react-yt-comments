@@ -1,0 +1,118 @@
+.c-comment {
+    $component: &;
+
+    display: grid;
+    grid-template-columns: auto 1fr 40px;
+
+    &__side--left {
+        margin-right: 16px;
+    }
+
+    &__pic {
+        width: 40px;
+        height: 40px;
+        object-fit: cover;
+        border-radius: 9999px;
+    }
+
+    &__header {
+        height: 20px;
+        margin-bottom: 2px;
+        line-height: 20px;
+    }
+
+    &__author {
+        display: inline-block;
+        margin-right: 4px;
+        color: #0f0f0f;
+        font-size: 13px;
+        font-weight: 500;
+    }
+
+    &__date {
+        color: #606060;
+        font-size: 12px;
+    }
+
+    &__text {
+        color: #0f0f0f;
+        font-size: 14px;
+        line-height: 20px;
+
+        // &--ellipsis {
+        //     overflow: hidden;
+        //     text-overflow: ellipsis;
+        //     display: -webkit-box;
+        //     -webkit-line-clamp: 4;
+        //     -webkit-box-orient: vertical;
+        // }
+    }
+
+    &__show-more {
+        color: #606060;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 20px;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    &__toolbar {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 36px;
+    }
+
+    &__likes-count {
+        margin-right: 8px;
+        color: #606060;
+        font-size: 12px;
+    }
+}
+
+.c-comment-action-menu {
+    position: relative;
+
+    &__wrapper {
+        position: absolute;
+        z-index: 10;
+        right: 0;
+        background-color: #ffffff;
+    }
+
+    &__items {
+        padding: 8px 0;
+    }
+
+    &__action {
+        height: 36px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 16px;
+        padding-left: 16px;
+        padding-right: 12px;
+
+        &:hover {
+            background-color: rgba(0, 0, 0, 0.1);
+        }
+
+        &:active {
+            background-color: #cbcbcb;
+        }
+    }
+}
+
+.c-comment {
+    $component: &;
+
+    &--sm {
+        #{$component}__pic {
+            width: 24px;
+            height: 24px;
+        }
+    }
+}
