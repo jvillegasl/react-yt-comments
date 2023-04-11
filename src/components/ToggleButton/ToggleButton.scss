@@ -1,0 +1,51 @@
+.c-toggle-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 100%;
+    border: 1px solid transparent;
+
+    & > * {
+        width: 18px;
+        height: 18px;
+    }
+
+    &::after {
+        content: var(--tooltip-label);
+        position: absolute;
+        z-index: 10;
+        display: block;
+        bottom: -48px;
+        padding: 8px;
+        border-radius: 4px;
+        color: #ffffff;
+        background-color: rgba(97, 97, 97, 0.75);
+        font-size: 12px;
+        font-weight: 300;
+        list-style: 18px;
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    &:hover {
+        background-color: #e5e5e5;
+
+        &::after {
+            opacity: 1;
+            visibility: visible;
+            transition: opacity 0.2s ease-in;
+        }
+    }
+
+    &:active {
+        background-color: #cecece;
+        animation: none !important;
+    }
+
+    &:focus {
+        animation: border-fade-out 0.2s ease-out;
+    }
+}
