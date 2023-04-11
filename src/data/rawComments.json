@@ -1,0 +1,817 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "zmIL5dBTpfHSR1OpYfzldGcJ2bE",
+    "nextPageToken": "Z2V0X3JhbmtlZF9zdHJlYW1zLS1DcVFCQ0lBRUZSZTMwVGdhbVFFS2xBRUkyRjhRZ0FRWUJ5S0pBZHVLc3NRR1plSVZwbGJuSUJ2ajVVaGR6NzEzdkhmVVZISWpyU1hLQ01ucnBDdWNGWmpuQ1Z5WGJQWVlBLUlkejhDZkxPRmdCeDBUcHJYTUR1NWplWWZBelhyWmhoWWFEdm1kS3N6bzViS3Z4cUFIYW12NmF4NHdBZ3BmZ1d3WjFYN1FWWVFTVHBXb295TFNnczBXT1NJVXF4bGM4STBSZ1NjbVY3RnB6YXh1ZFY5Smp4SThwSnNMRUJRU0J3aUZJQkFVR0FFU0JRaUlJQmdBRWdVSWhpQVlBQklIQ0pjZ0VCUVlBUklGQ0lrZ0dBQVNCUWlISUJnQUdBRQ==",
+    "pageInfo": {
+        "totalResults": 20,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_x6R8bgjJUWL90SKoA7sT4FZ1cE",
+            "id": "UgyDx62jQqkRjlJpRmp4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "wcHSXHaSaXiz8SGg2m1-klSF-M0",
+                    "id": "UgyDx62jQqkRjlJpRmp4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "I have been in the industry for over 8 years now and I must say that finding videos with this kind of quality is incredibly hard. \u003cbr\u003eSubscribe to this channel people!\u003cbr\u003eGreat job Jack 👏🏻💯",
+                        "textOriginal": "I have been in the industry for over 8 years now and I must say that finding videos with this kind of quality is incredibly hard. \nSubscribe to this channel people!\nGreat job Jack 👏🏻💯",
+                        "authorDisplayName": "Carlos Alexis",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVHO3cRp2HlbTUZgIVBD2-8VbYDOKs1bJSv4w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCFEbVtHiJUCTLNQQ0LuPPDQ",
+                        "authorChannelId": {
+                            "value": "UCFEbVtHiJUCTLNQQ0LuPPDQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 78,
+                        "publishedAt": "2022-02-15T04:25:52Z",
+                        "updatedAt": "2022-02-15T04:25:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "cv3tI1dxClKCYvaEVFjo-gZw248",
+                        "id": "UgyDx62jQqkRjlJpRmp4AaABAg.9YSWFobW3df9YSZabfRanV",
+                        "snippet": {
+                            "videoId": "MpdFj8MEuJA",
+                            "textDisplay": "Thank you so much!",
+                            "textOriginal": "Thank you so much!",
+                            "parentId": "UgyDx62jQqkRjlJpRmp4AaABAg",
+                            "authorDisplayName": "Jack Herrington",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJW0lQB0oDLUfesO1Yhk9Te0UEXkvw3XBFZ6rZvN8w=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw",
+                            "authorChannelId": {
+                                "value": "UC6vRUjYqDuoUsYsku86Lrsw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 6,
+                            "publishedAt": "2022-02-15T04:55:03Z",
+                            "updatedAt": "2022-02-15T04:55:03Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Y7cV5Kp1OK_JExytkyREDmXC1GU",
+            "id": "UgyV7-Us1ZD6IB0uhd14AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "RSa6o1Ow4lhhL6ftlM0CrYDyv0g",
+                    "id": "UgyV7-Us1ZD6IB0uhd14AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "honestly this channel is probably the best out there for deep dives into Typescript and React, love your content good sir",
+                        "textOriginal": "honestly this channel is probably the best out there for deep dives into Typescript and React, love your content good sir",
+                        "authorDisplayName": "Justine Chang",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVGu6o_7MHkV8vXk3KOUU7EDkYQ1VgHsu0JvOUwng=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC-85TOp6qznOyA882oRwkhg",
+                        "authorChannelId": {
+                            "value": "UC-85TOp6qznOyA882oRwkhg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 83,
+                        "publishedAt": "2022-02-15T07:01:21Z",
+                        "updatedAt": "2022-02-15T07:01:21Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 5,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "BQkvuv6n8uDP9VuZF86aUz0Mh68",
+                        "id": "UgyV7-Us1ZD6IB0uhd14AaABAg.9YSn2bfn2QM9chegVlgqMq",
+                        "snippet": {
+                            "videoId": "MpdFj8MEuJA",
+                            "textDisplay": "True, this channel deserves to be much bigger - lots of knowledge and very good production quality.",
+                            "textOriginal": "True, this channel deserves to be much bigger - lots of knowledge and very good production quality.",
+                            "parentId": "UgyV7-Us1ZD6IB0uhd14AaABAg",
+                            "authorDisplayName": "gby0x7c1",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJU7H6oGvMU4vVVSxFHhdAb4RrxalrMvksZyIw=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCMpbAeJzL6yrlJLuxm2qw1g",
+                            "authorChannelId": {
+                                "value": "UCMpbAeJzL6yrlJLuxm2qw1g"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-06-25T17:33:06Z",
+                            "updatedAt": "2022-06-25T17:33:06Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "RhkxfVBM_-eOA_WvcjO7V_l-Gc0",
+                        "id": "UgyV7-Us1ZD6IB0uhd14AaABAg.9YSn2bfn2QM9cSYtwf7qtg",
+                        "snippet": {
+                            "videoId": "MpdFj8MEuJA",
+                            "textDisplay": "I was 2 videos and decide to subscribe. This channel got the real stuff compared to so many other Youtubers pretending to be professional developers.",
+                            "textOriginal": "I was 2 videos and decide to subscribe. This channel got the real stuff compared to so many other Youtubers pretending to be professional developers.",
+                            "parentId": "UgyV7-Us1ZD6IB0uhd14AaABAg",
+                            "authorDisplayName": "hanming zheng",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWmuJIVCxv2d7LtXYJqJy2PHeUztrux8pCBnS6A_g=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCTgh-fYWhjsr5H03Kl8W2OQ",
+                            "authorChannelId": {
+                                "value": "UCTgh-fYWhjsr5H03Kl8W2OQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 0,
+                            "publishedAt": "2022-06-19T11:25:56Z",
+                            "updatedAt": "2022-06-19T11:25:56Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "KKFUG5_cJn8Lpzc0I1B7aLUzvKQ",
+                        "id": "UgyV7-Us1ZD6IB0uhd14AaABAg.9YSn2bfn2QM9c5h83h0VVU",
+                        "snippet": {
+                            "videoId": "MpdFj8MEuJA",
+                            "textDisplay": "Great team advice too, even you know the libraries already, &quot;What is easier to review?&quot; is a helpful perspective.",
+                            "textOriginal": "Great team advice too, even you know the libraries already, \"What is easier to review?\" is a helpful perspective.",
+                            "parentId": "UgyV7-Us1ZD6IB0uhd14AaABAg",
+                            "authorDisplayName": "Bill Baker",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVCCrfxopzAraWwfvZ0lgLP3Dc5tqAQLSwfKJTSaFU=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCZyfGHbVwC65V1i0VmrFZyA",
+                            "authorChannelId": {
+                                "value": "UCZyfGHbVwC65V1i0VmrFZyA"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 1,
+                            "publishedAt": "2022-06-10T14:24:06Z",
+                            "updatedAt": "2022-06-10T14:24:06Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "bOfgULN1q1PCKGaItTQfqDXAV6Y",
+                        "id": "UgyV7-Us1ZD6IB0uhd14AaABAg.9YSn2bfn2QM9b4mCx5rla0",
+                        "snippet": {
+                            "videoId": "MpdFj8MEuJA",
+                            "textDisplay": "hey i’ve been following for a while now and this is solid. no gimmicks. pure education, learning and excellent content primarily focused in TS and JS +frameworks. would love to see Rust and wasam content integrated with js. excellent work. can’t wait to see your channel blow up beyond 100k.",
+                            "textOriginal": "hey i’ve been following for a while now and this is solid. no gimmicks. pure education, learning and excellent content primarily focused in TS and JS +frameworks. would love to see Rust and wasam content integrated with js. excellent work. can’t wait to see your channel blow up beyond 100k.",
+                            "parentId": "UgyV7-Us1ZD6IB0uhd14AaABAg",
+                            "authorDisplayName": "Sterling Cobb",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWdpBFinkRyUKPCTQst4BBplpwPaDlHQ-3qWzaDU68=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCBRxRLtf1klIzQM6cQY0Wyw",
+                            "authorChannelId": {
+                                "value": "UCBRxRLtf1klIzQM6cQY0Wyw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 2,
+                            "publishedAt": "2022-05-16T09:17:50Z",
+                            "updatedAt": "2022-05-16T09:17:50Z"
+                        }
+                    },
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "-gVKYoOWCfO4bMTqSAv3kDxfuAA",
+                        "id": "UgyV7-Us1ZD6IB0uhd14AaABAg.9YSn2bfn2QM9aAi66E55A9",
+                        "snippet": {
+                            "videoId": "MpdFj8MEuJA",
+                            "textDisplay": "Agree",
+                            "textOriginal": "Agree",
+                            "parentId": "UgyV7-Us1ZD6IB0uhd14AaABAg",
+                            "authorDisplayName": "tomas carignano",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWMHIbi87NViGFCJHPC0ifww9gYz_2UjFtqr10T=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UCu88KSjsPUgcgfchSOaR0iQ",
+                            "authorChannelId": {
+                                "value": "UCu88KSjsPUgcgfchSOaR0iQ"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 2,
+                            "publishedAt": "2022-04-23T20:05:59Z",
+                            "updatedAt": "2022-04-23T20:05:59Z"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Uw84UFoPiIYOpeVP3fm4Bx5BuOw",
+            "id": "UgzW4rGwjlYjSlGBfVd4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "q4rrKKG15d3C4sCkXhU2wRDyW78",
+                    "id": "UgzW4rGwjlYjSlGBfVd4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Just when wet thought we don&#39;t deserve this a high quality educative content, you showed up and said we deserve it.",
+                        "textOriginal": "Just when wet thought we don't deserve this a high quality educative content, you showed up and said we deserve it.",
+                        "authorDisplayName": "mister sir7",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWxLluTR1ZvONLBlozwG6g76jdD3K7jIyT_xL0ckA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCheH3vbiXzo54PvS7XlYVHQ",
+                        "authorChannelId": {
+                            "value": "UCheH3vbiXzo54PvS7XlYVHQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2023-02-25T00:53:11Z",
+                        "updatedAt": "2023-02-25T00:53:11Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "nOJj0lRItlLoS-tuwLmDInlfXTE",
+            "id": "UgwqsVV9vBK5qozoA0J4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "N9PCK72M_KC46yRjI2FyJ8xXTvU",
+                    "id": "UgwqsVV9vBK5qozoA0J4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "For my money, when it comes to getting these concepts across in an accessible way that goes beyond the superficial while avoiding being mired down, you are absolutely unbeatable. It&#39;s a fine line but you walk it expertly!",
+                        "textOriginal": "For my money, when it comes to getting these concepts across in an accessible way that goes beyond the superficial while avoiding being mired down, you are absolutely unbeatable. It's a fine line but you walk it expertly!",
+                        "authorDisplayName": "thatboyneedstherapy",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXWMxrSCDTY-y1ZTIUAp4J8Sm_D4319HUqE-w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCdu_eo_xhCpuCZ8VhZ1MqUg",
+                        "authorChannelId": {
+                            "value": "UCdu_eo_xhCpuCZ8VhZ1MqUg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 20,
+                        "publishedAt": "2022-02-16T03:59:16Z",
+                        "updatedAt": "2022-02-16T03:59:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-zHupXMidbwvcz7atQuKASnGkuA",
+            "id": "UgzQKwbV9XffwRDy5aB4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "2TEJIY5yFCYzzaZMTPu8sG_we9E",
+                    "id": "UgzQKwbV9XffwRDy5aB4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "I don&#39;t understand why youtube didn&#39;t recommend your channel to me earlier. This video is not only about mastering React context but also the way you refactor/repurpose the components for the use of context and other state managers. Thanks so much because I learn a lot from it.",
+                        "textOriginal": "I don't understand why youtube didn't recommend your channel to me earlier. This video is not only about mastering React context but also the way you refactor/repurpose the components for the use of context and other state managers. Thanks so much because I learn a lot from it.",
+                        "authorDisplayName": "Tien Nguyen",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWneDoDDkpyUZbl_vhOtaNocTV9Ucs9_kgRMnWy9w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCSY5hb7HCdov1lIENXeAzvA",
+                        "authorChannelId": {
+                            "value": "UCSY5hb7HCdov1lIENXeAzvA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2023-03-28T15:41:09Z",
+                        "updatedAt": "2023-03-28T15:41:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "t36YgUHZZW0bNZUvkO8NV3vdcFU",
+            "id": "UgwNRAoJ6eZItIjwtgd4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "1tKw4Z5RFvwN2EfqqUqFreAHUlE",
+                    "id": "UgwNRAoJ6eZItIjwtgd4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "I have kind of learned HTML a thousand times over the years and skipped it because JS and CSS where so cool but HTML is so basic it is thought only to beginners I think you are the perfect person to teach us (i.e. We already know * &quot;Hypertext&quot; refers to links that connect web pages to one another, either within a single website or between websites*) you must do an HTML tutorial for people who knows the basics and give us the advanced tools to master HTML in the context of React and with the minimal CSS or styling possible for it to be interesting but focusing only on HTML (in the context of React probably)… 😅😅😅😅 I would love to get my HTML certification 😉😌😜",
+                        "textOriginal": "I have kind of learned HTML a thousand times over the years and skipped it because JS and CSS where so cool but HTML is so basic it is thought only to beginners I think you are the perfect person to teach us (i.e. We already know * \"Hypertext\" refers to links that connect web pages to one another, either within a single website or between websites*) you must do an HTML tutorial for people who knows the basics and give us the advanced tools to master HTML in the context of React and with the minimal CSS or styling possible for it to be interesting but focusing only on HTML (in the context of React probably)… 😅😅😅😅 I would love to get my HTML certification 😉😌😜",
+                        "authorDisplayName": "Luxcium",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWMGky8qjYsmhvNJkUBuqWJZvB7pkHzHqb66VP2uA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC5Gdc5Bqei8t3Grlk8LB3gA",
+                        "authorChannelId": {
+                            "value": "UC5Gdc5Bqei8t3Grlk8LB3gA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2023-02-04T12:26:59Z",
+                        "updatedAt": "2023-02-04T12:26:59Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "wOMc0veV7L2pw81Uqx__zDD52Ys",
+            "id": "UgwO0hEuZU7OZnJWzBh4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Eybu-oAA7X_v7oLfLzg-vCpcNTU",
+                    "id": "UgwO0hEuZU7OZnJWzBh4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Love how you Made the comparison between Context and Zustand. \u003cbr\u003e\u003cbr\u003eI always use Context and didn’t see why I should consider other state management tools.\u003cbr\u003e\u003cbr\u003eThank you Jack",
+                        "textOriginal": "Love how you Made the comparison between Context and Zustand. \n\nI always use Context and didn’t see why I should consider other state management tools.\n\nThank you Jack",
+                        "authorDisplayName": "Isaac Lucas",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXUjU1KvqEPP5IzZ450-hxrEvLWno7acNV7uuOj0w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC4549-6KcLn52YTvPOq-K2g",
+                        "authorChannelId": {
+                            "value": "UC4549-6KcLn52YTvPOq-K2g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 15,
+                        "publishedAt": "2022-02-17T03:51:11Z",
+                        "updatedAt": "2022-02-17T03:51:32Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "DjmmWU9NPkVzOm4ECoJEiQGKd5c",
+            "id": "UgznrXxQY06RMbbsYLB4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6EmzHdmWp6F1S24OChhH5vqADjM",
+                    "id": "UgznrXxQY06RMbbsYLB4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Love how simple it was with Zustand, with useContext it looks like you have to worry about a lot of stuff",
+                        "textOriginal": "Love how simple it was with Zustand, with useContext it looks like you have to worry about a lot of stuff",
+                        "authorDisplayName": "Kuromika",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/AVQvXom181d9vblzk8A8BW33dkWOFHprwIQoLdeyZLWPht2CuQXeBlsYBNddmxog5M2oLVupUF4=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCvMXghc81Xmzh2WZpr5uy_A",
+                        "authorChannelId": {
+                            "value": "UCvMXghc81Xmzh2WZpr5uy_A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2023-01-29T20:51:01Z",
+                        "updatedAt": "2023-01-29T20:51:01Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "VzEBqJ0OY11buOxjyEdmO8OZ1BE",
+            "id": "Ugx2KSlTSphjcM5Kxit4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_brtMr6QXt8An1GWD7ibrg4Cypw",
+                    "id": "Ugx2KSlTSphjcM5Kxit4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Amazing video Jack, I really enjoy watching the way you write and talk about code. Your channel is absolutely phenomenal.",
+                        "textOriginal": "Amazing video Jack, I really enjoy watching the way you write and talk about code. Your channel is absolutely phenomenal.",
+                        "authorDisplayName": "tabliqat chi",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXe8Vo1riRLya-1IgWqb2TKO_VLCCwxteyayg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCizH9xJmPTulbLMGwyY-QkA",
+                        "authorChannelId": {
+                            "value": "UCizH9xJmPTulbLMGwyY-QkA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-02-05T08:46:16Z",
+                        "updatedAt": "2023-02-05T08:46:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "XFtAszueGKzG8_vxptxCPWGgUEI",
+            "id": "UgyjPLrIAJvlG0fS8fV4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "c34gYk4Q0vQD8yf6b_IKW3vnWcQ",
+                    "id": "UgyjPLrIAJvlG0fS8fV4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Mastering with the MASTER 🔥Every video is great, sometimes too much 😄, I mean I have seen the video even twice because you reach a high level, but with you Jack, I can improve my skills. Thanks ✌🏻",
+                        "textOriginal": "Mastering with the MASTER 🔥Every video is great, sometimes too much 😄, I mean I have seen the video even twice because you reach a high level, but with you Jack, I can improve my skills. Thanks ✌🏻",
+                        "authorDisplayName": "Universe Code",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/i4-Gj-EG0gxvgRjxD5SUxHuTZ8Ogknxw7YfXJ-hCPDPALP5lrTTO7wDEXIeRkik-LIV_DOBI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCL84al03JO8PRUD2RAgqe7w",
+                        "authorChannelId": {
+                            "value": "UCL84al03JO8PRUD2RAgqe7w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 22,
+                        "publishedAt": "2022-02-14T16:07:15Z",
+                        "updatedAt": "2022-02-14T16:07:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "NrKiChFzJ--TypP--DP8VwrfVtg",
+            "id": "Ugw0r4nKmIhUUCBQglR4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "_hE0_7EuKLuIhGKoOixrqZwiKdk",
+                    "id": "Ugw0r4nKmIhUUCBQglR4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "These series of mastering are amazing, Thank you very much man, I have learned lots of things from you and I owe you a lot :)",
+                        "textOriginal": "These series of mastering are amazing, Thank you very much man, I have learned lots of things from you and I owe you a lot :)",
+                        "authorDisplayName": "mostafa saffari",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWuBFCmCTVxjPThKcpYlEPbyEdj5A8jbZ7IJZ-5Gg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCRTIo0aOmAgFVQC2hA1g93Q",
+                        "authorChannelId": {
+                            "value": "UCRTIo0aOmAgFVQC2hA1g93Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2022-02-20T20:35:56Z",
+                        "updatedAt": "2022-02-20T20:35:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "iDPB4zM9BY9QrOaRWwa7tziCnVc",
+            "id": "UgzP6L24qOTh2td8-W54AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "33WmYhKxT0Lu57wY22Nrp0H4pHM",
+                    "id": "UgzP6L24qOTh2td8-W54AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Jack, you are so amazing. I would be so happy if you can create full stack web development course. I am sure many people (including me) are willing to pay for your course.",
+                        "textOriginal": "Jack, you are so amazing. I would be so happy if you can create full stack web development course. I am sure many people (including me) are willing to pay for your course.",
+                        "authorDisplayName": "Heang Ly",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUw0A9W--7QjFG73Rbh02TSr9iDt8t2YCGgFbOiFA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC5MOaF8Xfac3-k4CQnQigow",
+                        "authorChannelId": {
+                            "value": "UC5MOaF8Xfac3-k4CQnQigow"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-01-06T15:16:33Z",
+                        "updatedAt": "2023-01-06T15:16:33Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "V-Yj25OG4W_Q_y6vvVt-a5GbAW4",
+            "id": "UgwZEepd8lR-QGC7S2R4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "zAU9SpTZOIX_2uK0EUsdHmqrPLg",
+                    "id": "UgwZEepd8lR-QGC7S2R4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Incredibly clear and helpful demo. Please keep doing what you&#39;re doing. Your channel is by far the best I&#39;ve found at showing both &quot;the how&quot; and &quot;the why&quot; of very specific and practical React + TypeScript in a very accessible way.",
+                        "textOriginal": "Incredibly clear and helpful demo. Please keep doing what you're doing. Your channel is by far the best I've found at showing both \"the how\" and \"the why\" of very specific and practical React + TypeScript in a very accessible way.",
+                        "authorDisplayName": "Lucas J. Shuman",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXBajZkUkJHv6yXNToyEpeWLK-7vi7Akv3rmbIPKg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCjz32cM5J0julMofjaZpXBw",
+                        "authorChannelId": {
+                            "value": "UCjz32cM5J0julMofjaZpXBw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-02-17T19:22:45Z",
+                        "updatedAt": "2022-02-17T19:22:45Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "1pijWaRzGKadchjPeRD-cy0sBiU",
+            "id": "UgynwJEF7Rf6b2Hb0cB4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5Gt0H2GNhCUZOWvxXbXTngIf2M4",
+                    "id": "UgynwJEF7Rf6b2Hb0cB4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Hello Jack, it&#39;s great to watch videos on react hooks mastery. Can you create a playlist with the title &quot;React Mastering&quot; with all the videos related to React Mastery please? That&#39;ll be really helpful. Thank you.",
+                        "textOriginal": "Hello Jack, it's great to watch videos on react hooks mastery. Can you create a playlist with the title \"React Mastering\" with all the videos related to React Mastery please? That'll be really helpful. Thank you.",
+                        "authorDisplayName": "Muhammad Waqas",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJX5mgkwbyeT3bdo2YTs_2IG-gQR8r7cvCLewA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCZldzM90k2OAvjhbrioNcug",
+                        "authorChannelId": {
+                            "value": "UCZldzM90k2OAvjhbrioNcug"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2022-03-08T14:04:27Z",
+                        "updatedAt": "2022-03-08T14:04:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ByPbgvu8EbXoQboyj5gAGCW-WiY",
+            "id": "UgzKNK9auQVCfYteiWZ4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "y22MTTwUedIhGeLL0AwGHbBq7oc",
+                    "id": "UgzKNK9auQVCfYteiWZ4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Amazing content, I have been following the channel for a while now. As a Junior dev I can say that this channel motivates me to dive deeper into concepts and try them out on my own in a series of little projects. \u003cbr\u003eKeep up the good work and high quality content, Jack!",
+                        "textOriginal": "Amazing content, I have been following the channel for a while now. As a Junior dev I can say that this channel motivates me to dive deeper into concepts and try them out on my own in a series of little projects. \nKeep up the good work and high quality content, Jack!",
+                        "authorDisplayName": "Dan Bacila",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJV3ucl9mou4N1tdcPkcxa6XDQRp4hsQgMrw2v6SJQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCLxilXOZfzCx2_HYsj641Hw",
+                        "authorChannelId": {
+                            "value": "UCLxilXOZfzCx2_HYsj641Hw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-05-30T12:19:44Z",
+                        "updatedAt": "2022-05-30T12:19:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "IB3ClbKdf-1nkgSBYd8vfMDvYGc",
+            "id": "UgwnujAezQwVtY0ePrF4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "--bPtz-dzXP7-hX0W7tssrsUX1M",
+                    "id": "UgwnujAezQwVtY0ePrF4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "This is a really really awesome video. Way Way better than all those tutorial style videos which only is a regurgitation of documentation. This actually deepens my understanding and give me ability to judge new state management tools for myself",
+                        "textOriginal": "This is a really really awesome video. Way Way better than all those tutorial style videos which only is a regurgitation of documentation. This actually deepens my understanding and give me ability to judge new state management tools for myself",
+                        "authorDisplayName": "Di Peng",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJX1BmtPrIKiB-jpbmZFrj37iqL9hcnFOI0M5-G2=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCf86G1_zs2uMxWXPckYS_3g",
+                        "authorChannelId": {
+                            "value": "UCf86G1_zs2uMxWXPckYS_3g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-04-20T01:53:13Z",
+                        "updatedAt": "2022-04-20T01:53:13Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "mSQvyQQfJ_iuMyUbonTfQvCvIss",
+            "id": "UgyoHi3BBoWZ9exyKR14AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Q6LcdVdwa_-WJvYMet8mtLV-6QM",
+                    "id": "UgyoHi3BBoWZ9exyKR14AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Thank you so much for this tutorial, Jack! I love the calm and to-the-point way that you explain things as well as the super-clean code! Glad I found your channel :)",
+                        "textOriginal": "Thank you so much for this tutorial, Jack! I love the calm and to-the-point way that you explain things as well as the super-clean code! Glad I found your channel :)",
+                        "authorDisplayName": "Coding with Gunnar",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/BksBYonkC37KLgNBKld1FmE9g_sTA2NNCHjhIDoUMSpRSBfn9UpG_SYBZ8rkQjmwqeoNoAlIuA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCW0YRkHKxoSF6Z0GnAnd1eA",
+                        "authorChannelId": {
+                            "value": "UCW0YRkHKxoSF6Z0GnAnd1eA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-04-13T14:47:18Z",
+                        "updatedAt": "2022-04-13T14:47:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "hIhfWIPWq1R7jnOAIfbmiS16YzU",
+            "id": "Ugw9Uk7710pRLyPCrEh4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "i7cHwaEaS4XTJMJ-KNN8B4qzy0g",
+                    "id": "Ugw9Uk7710pRLyPCrEh4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Thank you for the wonderful video, Jack!\u003cbr\u003eI work in this industry for 5 years and yet I found all of your videos amazing and incredibly informative! All your videos are precious gems :)\u003cbr\u003eOnly one thing I found a little bit hard to follow is the pace you go through your code in the editor. Personally, for me is a little bit hard to follow with that speed. May be for others is okay :)\u003cbr\u003eThank you once again for the cool stuff you&#39;re showing to our fellow programmers :)",
+                        "textOriginal": "Thank you for the wonderful video, Jack!\nI work in this industry for 5 years and yet I found all of your videos amazing and incredibly informative! All your videos are precious gems :)\nOnly one thing I found a little bit hard to follow is the pace you go through your code in the editor. Personally, for me is a little bit hard to follow with that speed. May be for others is okay :)\nThank you once again for the cool stuff you're showing to our fellow programmers :)",
+                        "authorDisplayName": "Petar Kolev",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWEpzQUu0XGt_t1SO_7tehsAMb0qV--jCzKe2KNjg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC6AVHUquS71ygLo3Tb5NezA",
+                        "authorChannelId": {
+                            "value": "UC6AVHUquS71ygLo3Tb5NezA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-10-13T05:40:41Z",
+                        "updatedAt": "2022-10-13T05:40:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "KzqfQp6TEyrfyvv2i9CqebiKwNg",
+            "id": "UgzLAvrQ9ayLwUYb0dp4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "DxOPQrYGMJqLeoq2FzTkf6ivzrs",
+                    "id": "UgzLAvrQ9ayLwUYb0dp4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "Another great video….it’s amazing how many little things I learn mixed in with the major topic stuff. Thank you!\u003cbr\u003e\u003cbr\u003eAlso, you are a great salesman for Copilot…the more I watch you write code the more I want it!",
+                        "textOriginal": "Another great video….it’s amazing how many little things I learn mixed in with the major topic stuff. Thank you!\n\nAlso, you are a great salesman for Copilot…the more I watch you write code the more I want it!",
+                        "authorDisplayName": "Mark Salsbery",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUNmJd-Hmx4dLctaawl0cG-WAvJkqwhL7LjUKvc2g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCuaCiEfPQrjR2BfbadWncTg",
+                        "authorChannelId": {
+                            "value": "UCuaCiEfPQrjR2BfbadWncTg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-10-19T18:04:02Z",
+                        "updatedAt": "2022-10-19T18:04:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "-PxOlJ_EIcaE2htx6vO8m2fLQjE",
+            "id": "Ugy4Sk7-RRxlpEKc8ql4AaABAg",
+            "snippet": {
+                "videoId": "MpdFj8MEuJA",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "H9c8ZCHV82zTk7zvAygb38cMgio",
+                    "id": "Ugy4Sk7-RRxlpEKc8ql4AaABAg",
+                    "snippet": {
+                        "videoId": "MpdFj8MEuJA",
+                        "textDisplay": "I always asked why people use redux for everything, while they could achieve the same with context or simpler state management libs. This video is proof of it. Unfortunately using context takes a lot of care to avoid re-renders, but zustand demonstrate it can look simple and do the job.",
+                        "textOriginal": "I always asked why people use redux for everything, while they could achieve the same with context or simpler state management libs. This video is proof of it. Unfortunately using context takes a lot of care to avoid re-renders, but zustand demonstrate it can look simple and do the job.",
+                        "authorDisplayName": "Biel Gaúcho",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/7pxPyLFNvyjcHejLKe13KKF84UQwAPYxFFEeo5KboPzHkSsmhWPMbbWEk9H2L6DddtajOekerg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCV6_wO_tu9cIDaHOsRp_prA",
+                        "authorChannelId": {
+                            "value": "UCV6_wO_tu9cIDaHOsRp_prA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 3,
+                        "publishedAt": "2022-08-07T17:45:53Z",
+                        "updatedAt": "2022-08-07T17:45:53Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            },
+            "replies": {
+                "comments": [
+                    {
+                        "kind": "youtube#comment",
+                        "etag": "zYOWz0tigmD0yNcX1l4D_p3VbMg",
+                        "id": "Ugy4Sk7-RRxlpEKc8ql4AaABAg.9eRPKgjREwJ9eRaUiaR5G0",
+                        "snippet": {
+                            "videoId": "MpdFj8MEuJA",
+                            "textDisplay": "Just remember to make sure you use selectors with your zustand hook. :)",
+                            "textOriginal": "Just remember to make sure you use selectors with your zustand hook. :)",
+                            "parentId": "Ugy4Sk7-RRxlpEKc8ql4AaABAg",
+                            "authorDisplayName": "Jack Herrington",
+                            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJW0lQB0oDLUfesO1Yhk9Te0UEXkvw3XBFZ6rZvN8w=s48-c-k-c0x00ffffff-no-rj",
+                            "authorChannelUrl": "http://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw",
+                            "authorChannelId": {
+                                "value": "UC6vRUjYqDuoUsYsku86Lrsw"
+                            },
+                            "canRate": true,
+                            "viewerRating": "none",
+                            "likeCount": 3,
+                            "publishedAt": "2022-08-07T19:32:06Z",
+                            "updatedAt": "2022-08-07T19:32:06Z"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
