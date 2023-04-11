@@ -1,0 +1,23 @@
+.c-icon-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 1px solid transparent;
+
+    &__icon {
+        width: 16px;
+        height: 16px;
+    }
+
+    &:active {
+        background-color: #e3e3e3;
+        animation: none !important;
+    }
+
+    &:focus {
+        animation: border-fade-out 0.2s ease-in;
+    }
+}
