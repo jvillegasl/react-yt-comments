@@ -1,0 +1,26 @@
+.c-comment-thread {
+    &__expand {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 4px;
+        height: 36px;
+        padding: 0 12px;
+        border-radius: 9999px;
+        color: #065fd4;
+        font-size: 14px;
+        font-weight: 500;
+
+        &:hover {
+            background-color: #e2f0fe;
+        }
+
+        &:active {
+            background-color: #cbd8e4;
+        }
+    }
+
+    &__replies {
+        padding-left: 56px;
+    }
+}
