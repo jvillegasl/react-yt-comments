@@ -1,5 +1,6 @@
 :root {
-    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    // font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-family: "Roboto", sans-serif;
     line-height: 1.5;
     font-weight: 400;
 }
@@ -14,7 +15,12 @@ body {
     overflow-y: auto;
 }
 
+#root {
+    height: 100%;
+}
+
 * {
+    font-family: "Roboto", sans-serif;
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -28,4 +34,29 @@ body {
 a,
 button {
     cursor: pointer;
+}
+
+@keyframes border-fade-out {
+    from {
+        border-color: rgba(0, 0, 0, 0.25);
+    }
+    to {
+        border-color: transparent;
+    }
+}
+
+@keyframes ripple {
+    to {
+        transform: scale(4);
+        opacity: 0;
+    }
+}
+
+@keyframes grow {
+    from {
+        transform: scale(0);
+    }
+    to {
+        transform: scale(1);
+    }
 }
