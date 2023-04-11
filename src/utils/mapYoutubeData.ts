@@ -29,7 +29,6 @@ function mapReply(reply: any) {
 
     const mappedReply: IReply = {
         id,
-        textDisplay,
         textOriginal,
         authorDisplayName,
         authorProfileImageUrl,
@@ -38,6 +37,7 @@ function mapReply(reply: any) {
         likeCount,
         publishedAt,
         updatedAt,
+        userLikeStatus: 0,
     };
 
     return mappedReply;
