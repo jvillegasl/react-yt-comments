@@ -47,7 +47,6 @@ export function Comment({ parentId, comment, size }: CommentProps) {
         if (!parentId) {
             addReply(comment.id, text);
         } else {
-            console.log("test");
             addReply(parentId, text);
         }
     }

@@ -12,31 +12,36 @@ export function getTimeDiff(date: string | Date) {
 
     let units = "seconds";
     let amount = Math.round(diffDate / 1000);
-
-    if (amount >= 60) {
-        amount = Math.round(amount / 60);
-        units = amount > 1 ? "minutes" : "minute";
+    if (amount < 60) {
+        return `${amount} ${units}`;
     }
 
-    if (amount >= 60) {
-        amount = Math.round(amount / 60);
-        units = amount > 1 ? "hours" : "hour";
+    amount = Math.round(amount / 60);
+    units = amount > 1 ? "minutes" : "minute";
+    if (amount < 60) {
+        return `${amount} ${units}`;
     }
 
-    if (amount >= 24) {
-        amount = Math.round(amount / 24);
-        units = amount > 1 ? "days" : "day";
+    amount = Math.round(amount / 60);
+    units = amount > 1 ? "hours" : "hour";
+    if (amount < 24) {
+        return `${amount} ${units}`;
     }
 
-    if (amount >= 30) {
-        amount = Math.round(amount / 30);
-        units = amount > 1 ? "months" : "month";
+    amount = Math.round(amount / 24);
+    units = amount > 1 ? "days" : "day";
+    if (amount < 30) {
+        return `${amount} ${units}`;
     }
 
-    if (amount >= 12) {
-        amount = Math.round(amount / 12);
-        units = amount > 1 ? "years" : "year";
+    amount = Math.round(amount / 30);
+    units = amount > 1 ? "months" : "month";
+    if (amount < 12) {
+        return `${amount} ${units}`;
     }
+
+    amount = Math.round(amount / 12);
+    units = amount > 1 ? "years" : "year";
 
     return `${amount} ${units}`;
 }

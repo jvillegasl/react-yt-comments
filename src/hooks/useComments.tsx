@@ -49,8 +49,6 @@ export function useComments() {
     }
 
     function setLikeStatus(commentId: string, likeStatus: -1 | 0 | 1) {
-        console.log("test");
-
         setCommets((prevComments) => {
             let newComments = [...prevComments];
 
